@@ -13,6 +13,13 @@ A simple, lightweight command-line tool for managing the Windows `hosts` file. B
 
 ## Installation
 
+### Quick Install (PowerShell)
+Run the following command in PowerShell as Administrator:
+```powershell
+irm https://raw.githubusercontent.com/quickyyy/HostsEditor/main/install.ps1 | iex
+```
+
+### Manual Installation
 1. Download the source code.
 2. Right-click `install.cmd` and select **Run as administrator**.
 3. The tool will be installed to your system path. You can now use the `hosts` command from any terminal (CMD, PowerShell).

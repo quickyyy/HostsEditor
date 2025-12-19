@@ -1,5 +1,5 @@
 param(
-    [string]$BaseUrl = "https://raw.githubusercontent.com/quickyyy/HostsEditor/main"
+    [string]$BaseUrl = "https://raw.githubusercontent.com/quickyyy/HostsEditor/refs/heads/master"
 )
 
 $ErrorActionPreference = 'Stop'

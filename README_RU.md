@@ -16,7 +16,7 @@
 ### Быстрая установка (PowerShell)
 Запустите следующую команду в PowerShell от имени администратора:
 ```powershell
-irm https://raw.githubusercontent.com/quickyyy/HostsEditor/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/quickyyy/HostsEditor/refs/heads/master/install.ps1 | iex
 ```
 
 ### Ручная установка
